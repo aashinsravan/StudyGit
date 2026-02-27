@@ -1,1 +1,2 @@
 Happiness Quote 1 for the first commit testing
+Adding happiness quote 2 for the second commit testing
