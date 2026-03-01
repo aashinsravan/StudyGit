@@ -3,3 +3,5 @@ adding personal quote for the first commit
 Adding perosnal quoute for the second commit
 
 Adding a new quote for getting ahead of the origin
+
+adding a fourth quote for pulling it to local machine
